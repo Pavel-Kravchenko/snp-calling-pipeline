@@ -18,9 +18,8 @@ First of all you have to ```clone``` this directory</br></br>
 Then ```cd``` in snp-calling-pipeline </br></br>
 ```cd snp-calling-pipeline```</br></br>
 You have to run a builder.sh script in /Human with your reference chromosomes.</br></br>
-Now you are ready to start:</br>
-put your .fastq reads in /reads
-And run script.sh</br></br>
+Now you are ready to start.</br></br>
+Put your .fastq reads in /reads and run script.sh</br></br>
 
 ## Contact me
 
