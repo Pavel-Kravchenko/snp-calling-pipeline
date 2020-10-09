@@ -1,5 +1,8 @@
 # snp-calling-pipeline
-A simple snp calling pipeline for monogeneous and WGAS analysis
+A simple snp calling pipeline for monogeneous and WGAS analysis. 
+
+INPUT: raw fastq reads
+OUTPUT: report with SNP hits in refgene, 1000g, gwas, clinvar
 
 ## Before you start
 
